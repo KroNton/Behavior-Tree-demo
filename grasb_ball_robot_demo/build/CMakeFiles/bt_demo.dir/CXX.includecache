@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kronton/Behavior-Tree-demo/grasb_ball_robot_demo/bt_demo.cpp
+iostream
+-
+chrono
+-
+behaviortree_cpp/action_node.h
+/home/kronton/Behavior-Tree-demo/grasb_ball_robot_demo/behaviortree_cpp/action_node.h
+behaviortree_cpp/bt_factory.h
+/home/kronton/Behavior-Tree-demo/grasb_ball_robot_demo/behaviortree_cpp/bt_factory.h
+
